@@ -23,7 +23,7 @@ public class EmployeeIDSorter {
         System.out.println();
     }
 
-    // Main method
+
     public static void main(String[] args) {
         int[] employeeIDs = {104, 102, 108, 101, 105};
 
